@@ -1,3 +1,5 @@
+English | [繁體中文](README_zh.md)
+
 # Taiwan Rail (TRA)
 
 Taiwan Rail (TRA) train schedules and station information for 200+ stations across Taiwan.

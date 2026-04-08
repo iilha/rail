@@ -16,4 +16,8 @@ mkdir -p "$ASSETS_DIR"
 mkdir -p "$ASSETS_DIR/img/"
 cp -r "$ROOT_DIR/img/"* "$ASSETS_DIR/img/"
 
+mkdir -p "$ASSETS_DIR/js"
+[ -f "$ROOT_DIR/js/common.js" ] && cp "$ROOT_DIR/js/common.js" "$ASSETS_DIR/js/common.js"
+[ -f "$ROOT_DIR/js/bottom-sheet.js" ] && cp "$ROOT_DIR/js/bottom-sheet.js" "$ASSETS_DIR/js/bottom-sheet.js"
+
 echo "Android assets synced."

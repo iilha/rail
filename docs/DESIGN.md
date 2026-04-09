@@ -53,7 +53,6 @@ const SCHEDULES = {
 
 ### Navigation Header
 - Language toggle button (EN/中文)
-- Links to other transport apps (YouBike, MRT, THSR, Bus)
 - Active state highlighting
 
 ### Tab Navigation

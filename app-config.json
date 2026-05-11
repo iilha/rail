@@ -1,7 +1,7 @@
 {
   "appId": "rail",
   "appName": "urail  Monitor",
-  "apiBase": "https://api.transport-pwa.com/rail",
+  "apiBase": "https://app.octileapp.workers.dev",
   "siteBase": "https://rail.transport-pwa.com/",
   "workerUrl": "https://api.octile.eu.cc",
   "eventsUrl": "https://api.octile.eu.cc/events",

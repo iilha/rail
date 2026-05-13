@@ -2,7 +2,7 @@
   "appId": "rail",
   "appName": "urail  Monitor",
   "apiBase": "https://api.octile.eu.cc",
-  "siteBase": "https://rail.transport-pwa.com/",
+  "siteBase": "https://iilha.github.io/rail/",
   "features": {
     "events": true
   },
